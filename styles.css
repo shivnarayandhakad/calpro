@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .clock {
+    border: 10px solid #333;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  
